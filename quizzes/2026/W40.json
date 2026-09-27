@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 2,
+  "id": "wq_2026_W40",
+  "theme": "Krachs et bulles célèbres",
+  "publishedAt": "2026-09-27T18:00:00+02:00",
+  "validFrom": "2026-09-28",
+  "validUntil": "2026-10-04",
+  "weekInStreak": 1,
+  "narrative": {
+    "fr": "Des tulipes d'Amsterdam au pétrole de 2020 : chaque question vous replonge dans un épisode célèbre des marchés. Saurez-vous reconnaître les signes avant-coureurs ?",
+    "en": "From Amsterdam tulips to 2020 oil: each question takes you back to a famous market episode. Can you spot the warning signs?"
+  },
+  "questions": [
+    {
+      "id": "wq_2026_W40_q1",
+      "difficulty": 1,
+      "type": "MCQ",
+      "points": 10,
+      "translations": {
+        "fr": {
+          "question": "En 1637, quelle marchandise déclencha à Amsterdam l'une des premières bulles spéculatives de l'histoire ?",
+          "explanation": "La « tulipomanie » : le prix des bulbes de tulipe atteignit des niveaux absurdes avant de s'effondrer d'environ 90% en quelques semaines.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Des bulbes de tulipe",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "Des actions de la Compagnie des Indes",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "Du poivre noir",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "Des parcelles de terre en Nouvelle-Hollande",
+              "isCorrect": false
+            }
+          ]
+        },
+        "en": {
+          "question": "In 1637, which commodity sparked one of history's first speculative bubbles in Amsterdam?",
+          "explanation": "Tulip mania: tulip bulb prices reached absurd levels before collapsing by roughly 90% within weeks.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Tulip bulbs",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "East India Company shares",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "Black pepper",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "Land plots in New Holland",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W40_q2",
+      "difficulty": 2,
+      "type": "MCQ",
+      "points": 10,
+      "translations": {
+        "fr": {
+          "question": "Quel contexte a mené au « Jeudi noir » du 24 octobre 1929 à Wall Street ?",
+          "explanation": "Une panique de vente après une décennie de spéculation excessive : le Dow perdit 12% en une journée, ouvrant la Grande Dépression.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Un krach éclair sans signe précurseur",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_b",
+              "text": "La faillite d'une banque majeure",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "Une panique de vente après une décennie de spéculation excessive",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_d",
+              "text": "Une hausse des taux de la Réserve fédérale de 10%",
+              "isCorrect": false
+            }
+          ]
+        },
+        "en": {
+          "question": "What context led to Wall Street's 'Black Thursday' on October 24, 1929?",
+          "explanation": "A selling panic after a decade of over-speculation: the Dow lost 12% in a day, ushering in the Great Depression.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "A flash crash with no warning signs",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_b",
+              "text": "The bankruptcy of a major bank",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "A selling panic after a decade of over-speculation",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_d",
+              "text": "A 10% rate hike by the Federal Reserve",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W40_q3",
+      "difficulty": 3,
+      "type": "TRUE_FALSE",
+      "points": 15,
+      "translations": {
+        "fr": {
+          "question": "Vrai ou faux : lors du « Black Monday » du 19 octobre 1987, le Dow Jones a perdu plus de 20% en une seule journée.",
+          "explanation": "Vrai : -22,6% en une séance, record historique de chute journalière d'un grand indice — sans récession immédiate pour autant.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Vrai",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "Faux",
+              "isCorrect": false
+            }
+          ]
+        },
+        "en": {
+          "question": "True or false: on Black Monday, October 19, 1987, the Dow Jones fell more than 20% in a single day.",
+          "explanation": "True: -22.6% in one session, the largest single-day drop of a major index — yet no immediate recession followed.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "True",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "False",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W40_q4",
+      "difficulty": 4,
+      "type": "MCQ",
+      "points": 25,
+      "translations": {
+        "fr": {
+          "question": "En 2000, la bulle « dot-com » a éclaté. Quel type d'entreprises a été le plus durement frappé ?",
+          "explanation": "Les start-up internet sans profits ni modèle économique viable, cotées à des valorisations délirantes (ex. : Pets.com). Le Nasdaq perdit environ 78% entre 2000 et 2002.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Les entreprises industrielles lourdes",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_b",
+              "text": "Les start-up internet sans profits, à des valorisations extrêmes",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_c",
+              "text": "Les compagnies d'assurance européennes",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "Les banques d'affaires américaines",
+              "isCorrect": false
+            }
+          ]
+        },
+        "en": {
+          "question": "When the dot-com bubble burst in 2000, which companies were hit hardest?",
+          "explanation": "Profitless internet start-ups valued at absurd levels (e.g. Pets.com). The Nasdaq fell about 78% between 2000 and 2002.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Heavy industrial companies",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_b",
+              "text": "Profitless internet start-ups with extreme valuations",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_c",
+              "text": "European insurance companies",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "US investment banks",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W40_q5",
+      "difficulty": 5,
+      "type": "NUMERIC_GUESS",
+      "points": 30,
+      "answer": -37,
+      "tolerance": 3,
+      "translations": {
+        "fr": {
+          "question": "Question bonus : en avril 2020, le prix d'un baril de pétrole américain (WTI) a brièvement atteint un niveau inédit. Le plus proche gagne ! Quelle valeur approximative (en dollars par baril) ?",
+          "explanation": "Le WTI a touché -37 $ le 20 avril 2020 : les détenteurs de contrats devaient PAYER pour s'en débarrasser, faute de stockage disponible.",
+          "options": []
+        },
+        "en": {
+          "question": "Bonus question: in April 2020, the price of a US WTI oil barrel briefly reached an unprecedented level. Closest guess wins! Roughly what value (in dollars per barrel)?",
+          "explanation": "WTI hit -$37 on April 20, 2020: contract holders had to PAY to get rid of them amid a storage crisis.",
+          "options": []
+        }
+      }
+    }
+  ],
+  "scoring": {
+    "maxScore": 90,
+    "rankLabels": {
+      "fr": [
+        "Passant curieux",
+        "Investisseur averti",
+        "Historien des marchés"
+      ],
+      "en": [
+        "Curious onlooker",
+        "Savvy investor",
+        "Market historian"
+      ]
+    }
+  }
+}
