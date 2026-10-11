@@ -1,70 +1,70 @@
 {
   "schemaVersion": 2,
-  "id": "wq_2026_W41",
-  "theme": "La Bourse passe à table",
-  "publishedAt": "2026-10-05T00:00:00+02:00",
-  "validFrom": "2026-10-05",
-  "validUntil": "2026-10-11",
-  "weekInStreak": 2,
+  "id": "wq_2026_W42",
+  "theme": "Les bêtes de la Bourse",
+  "publishedAt": "2026-10-12T00:00:00+02:00",
+  "validFrom": "2026-10-12",
+  "validUntil": "2026-10-18",
+  "weekInStreak": 3,
   "narrative": {
-    "fr": "Du jus d'orange d'Hollywood au cacao plus cher que le cuivre : cette semaine, les marchés se lisent dans l'assiette. Sucre, friture et tablettes de chocolat racontent la finance mieux que n'importe quel graphique. Bon appétit… et bonne chance !",
-    "en": "From Hollywood orange juice to cocoa pricier than copper: this week, markets are served on a plate. Sugar, frying oil and chocolate bars tell the story of finance better than any chart. Enjoy your meal… and good luck!"
+    "fr": "Taureaux, ours, cygnes noirs et chats morts : la finance parle le langage du zoo. Cette semaine, MindInvest remonte la piste des animaux qui guident les marchés, du plus célèbre rebond de Wall Street au chien le plus improbable du Web. Ouvrez l'œil… et bonne chance !",
+    "en": "Bulls, bears, black swans and dead cats: finance speaks fluent zoo. This week, MindInvest tracks the animals that guide the markets, from Wall Street's most famous bounce to the web's most improbable dog. Keep your eyes peeled… and good luck!"
   },
   "questions": [
     {
-      "id": "wq_2026_W41_q1",
+      "id": "wq_2026_W42_q1",
       "difficulty": 1,
       "type": "MCQ",
       "points": 10,
       "translations": {
         "fr": {
-          "question": "Dans le film culte « Un fauteuil pour deux » (1983), les deux héros font fortune en spéculant sur quel contrat à terme ?",
-          "explanation": "Le jus d'orange concentré congelé (FCOJ), coté à New York : le film a rendu ce marché si célèbre que les traders réels guettent encore, mi-ironiques, la sortie du rapport sur les récoltes de Floride.",
+          "question": "Que décrit l'expression « dead cat bounce » (rebond du chat mort) sur les marchés ?",
+          "explanation": "Un rebond technique éphémère au sein d'une baisse durable : même un chat qui tombe rebondit s'il est lâché assez haut — mais il retombe toujours. L'expression vient de Wall Street et a été popularisée dans la presse financière.",
           "options": [
             {
               "id": "opt_a",
-              "text": "Le jus d'orange concentré congelé",
+              "text": "Un rebond bref et temporaire au milieu d'une baisse durable",
               "isCorrect": true
             },
             {
               "id": "opt_b",
-              "text": "Le blé de Kansas City",
+              "text": "Une hausse continue et régulière sur plusieurs années",
               "isCorrect": false
             },
             {
               "id": "opt_c",
-              "text": "Le pétrole brut WTI",
+              "text": "Le gel d'un titre suite à une suspension de cotation",
               "isCorrect": false
             },
             {
               "id": "opt_d",
-              "text": "Les plumes d'oie du Canada",
+              "text": "Une stratégie d'investissement dans les sociétés de croquettes",
               "isCorrect": false
             }
           ]
         },
         "en": {
-          "question": "In the cult classic 'Trading Places' (1983), the two heroes make a fortune trading which futures contract?",
-          "explanation": "Frozen concentrated orange juice (FCOJ), traded in New York: the film made the market so famous that real traders still half-jokingly await the Florida crop report.",
+          "question": "What does the expression 'dead cat bounce' describe on the markets?",
+          "explanation": "A brief, temporary rebound within a lasting downtrend: even a dead cat bounces if you drop it from high enough — but it always falls back down. The phrase comes from Wall Street and was popularized in the financial press.",
           "options": [
             {
               "id": "opt_a",
-              "text": "Frozen concentrated orange juice",
+              "text": "A short, temporary rebound in the middle of a lasting decline",
               "isCorrect": true
             },
             {
               "id": "opt_b",
-              "text": "Kansas City wheat",
+              "text": "A steady, continuous rise over several years",
               "isCorrect": false
             },
             {
               "id": "opt_c",
-              "text": "WTI crude oil",
+              "text": "A trading freeze after a stock suspension",
               "isCorrect": false
             },
             {
               "id": "opt_d",
-              "text": "Canadian goose feathers",
+              "text": "A strategy of investing in pet-food companies",
               "isCorrect": false
             }
           ]
@@ -72,59 +72,59 @@
       }
     },
     {
-      "id": "wq_2026_W41_q2",
+      "id": "wq_2026_W42_q2",
       "difficulty": 2,
       "type": "MCQ",
       "points": 10,
       "translations": {
         "fr": {
-          "question": "En 2024, le prix du cacao a triplé, fragilisant nos tablettes de chocolat. Quelle région assure à elle seule plus de 60 % de la production mondiale ?",
-          "explanation": "La Côte d'Ivoire et le Ghana, en Afrique de l'Ouest, produisent à eux deux plus de 60 % du cacao mondial : une seule mauvaise récolte dans cette zone, et ce sont les prix mondiaux qui s'embrasent.",
+          "question": "Quel auteur a popularisé l'expression « cygne noir » pour décrire un événement improbable, imprévisible et à fortes conséquences ?",
+          "explanation": "Nassim Nicholas Taleb, dans son ouvrage « The Black Swan » (2007), ancien trader d'options devenu l'un des penseurs du risque les plus influents.",
           "options": [
             {
               "id": "opt_a",
-              "text": "L'Amérique du Sud",
+              "text": "Warren Buffett",
               "isCorrect": false
             },
             {
               "id": "opt_b",
-              "text": "L'Asie du Sud-Est",
-              "isCorrect": false
-            },
-            {
-              "id": "opt_c",
-              "text": "L'Afrique de l'Ouest",
+              "text": "Nassim Nicholas Taleb",
               "isCorrect": true
             },
             {
+              "id": "opt_c",
+              "text": "Benjamin Graham",
+              "isCorrect": false
+            },
+            {
               "id": "opt_d",
-              "text": "L'Australie et la Nouvelle-Zélande",
+              "text": "Burton Malkiel",
               "isCorrect": false
             }
           ]
         },
         "en": {
-          "question": "In 2024, cocoa prices tripled, threatening our chocolate bars. Which region alone grows over 60% of the world's cocoa?",
-          "explanation": "Ivory Coast and Ghana, in West Africa, together produce more than 60% of the world's cocoa: one poor harvest in that zone and global prices catch fire.",
+          "question": "Which author popularized the expression 'black swan' to describe an improbable, unpredictable event with huge consequences?",
+          "explanation": "Nassim Nicholas Taleb, in his 2007 book 'The Black Swan' — a former options trader who became one of the most influential thinkers on risk.",
           "options": [
             {
               "id": "opt_a",
-              "text": "South America",
+              "text": "Warren Buffett",
               "isCorrect": false
             },
             {
               "id": "opt_b",
-              "text": "Southeast Asia",
-              "isCorrect": false
-            },
-            {
-              "id": "opt_c",
-              "text": "West Africa",
+              "text": "Nassim Nicholas Taleb",
               "isCorrect": true
             },
             {
+              "id": "opt_c",
+              "text": "Benjamin Graham",
+              "isCorrect": false
+            },
+            {
               "id": "opt_d",
-              "text": "Australia and New Zealand",
+              "text": "Burton Malkiel",
               "isCorrect": false
             }
           ]
@@ -132,14 +132,14 @@
       }
     },
     {
-      "id": "wq_2026_W41_q3",
+      "id": "wq_2026_W42_q3",
       "difficulty": 3,
       "type": "TRUE_FALSE",
       "points": 15,
       "translations": {
         "fr": {
-          "question": "Vrai ou faux : en mars 2024, la tonne de cacao est brièvement devenue plus chère que la tonne de cuivre.",
-          "explanation": "Vrai : le cacao a franchi 9 000 $ la tonne, dépassant le métal industriel de référence — un camoufle-metaux inédit qui a fait la une des médias financiers.",
+          "question": "Vrai ou faux : le surnom « Le Loup de Wall Street » vient d'un escroc du début du XXe siècle, David Lamar, surnommé ainsi avant même les mémoires de Jordan Belfort.",
+          "explanation": "Vrai : David Lamar (1876–1934), escroc américain, fut surnommé « the Wolf of Wall Street » bien avant que Jordan Belfort ne reprenne l'expression pour ses mémoires (2007), adaptées au cinéma par Scorsese en 2013.",
           "options": [
             {
               "id": "opt_a",
@@ -154,8 +154,8 @@
           ]
         },
         "en": {
-          "question": "True or false: in March 2024, a ton of cocoa briefly became more expensive than a ton of copper.",
-          "explanation": "True: cocoa broke above $9,000 a ton, overtaking the benchmark industrial metal — an unprecedented swap that made financial headlines.",
+          "question": "True or false: the nickname 'The Wolf of Wall Street' originally belonged to an early 20th-century swindler, David Lamar, long before Jordan Belfort's memoirs.",
+          "explanation": "True: David Lamar (1876–1934), an American con man, was dubbed 'the Wolf of Wall Street' long before Jordan Belfort reused the phrase for his memoirs (2007), adapted to film by Scorsese in 2013.",
           "options": [
             {
               "id": "opt_a",
@@ -172,59 +172,59 @@
       }
     },
     {
-      "id": "wq_2026_W41_q4",
+      "id": "wq_2026_W42_q4",
       "difficulty": 4,
       "type": "MCQ",
       "points": 25,
       "translations": {
         "fr": {
-          "question": "En 1963, l'escroc Tino De Angelis a trompé American Express avec des cuves censées être pleines d'huile végétale. Que contenaient-elles en réalité ?",
-          "explanation": "Surtout de l'eau, sous une fine couche d'huile flottant en surface : la « Salad Oil Swindle » coûta environ 175 millions de dollars de l'époque, fit plonger l'action American Express… et permit à un jeune Warren Buffett d'acheter à bas prix.",
+          "question": "Qu'est-ce qu'un « rhino gris », selon Michele Wucker qui a forgé l'expression ?",
+          "explanation": "Une menace évidente, très probable et à fort impact, mais que l'on néglige malgré — et souvent à cause de — son ampleur. Wucker l'a introduite à Davos en 2013 puis développée dans son livre de 2016, en miroir du cygne noir.",
           "options": [
             {
               "id": "opt_a",
-              "text": "De l'huile de palme frelatée",
-              "isCorrect": false
-            },
-            {
-              "id": "opt_b",
-              "text": "De l'eau sous une fine couche d'huile",
+              "text": "Un risque évident et probable que l'on ignore malgré sa taille",
               "isCorrect": true
             },
             {
+              "id": "opt_b",
+              "text": "Un événement totalement imprévisible et impossible à anticiper",
+              "isCorrect": false
+            },
+            {
               "id": "opt_c",
-              "text": "Du sable de construction",
+              "text": "Un actif dont personne ne veut, faute de liquidité",
               "isCorrect": false
             },
             {
               "id": "opt_d",
-              "text": "Du carburant d'avion",
+              "text": "Une société cotée dirigée par des gestionnaires peu compétents",
               "isCorrect": false
             }
           ]
         },
         "en": {
-          "question": "In 1963, con man Tino De Angelis fooled American Express with tanks supposedly brimming with vegetable oil. What were they really holding?",
-          "explanation": "Mostly water, beneath a thin layer of floating oil: the 'Salad Oil Swindle' cost roughly $175 million in 1963 money, crushed American Express stock… and let a young Warren Buffett buy in cheap.",
+          "question": "According to Michele Wucker, who coined the expression, what is a 'gray rhino'?",
+          "explanation": "An obvious, highly probable, high-impact threat that we neglect despite — and often because of — its size. Wucker introduced it at Davos in 2013 and developed it in her 2016 book, as a mirror to the black swan.",
           "options": [
             {
               "id": "opt_a",
-              "text": "Adulterated palm oil",
-              "isCorrect": false
-            },
-            {
-              "id": "opt_b",
-              "text": "Water under a thin layer of oil",
+              "text": "An obvious, probable risk that we ignore despite its size",
               "isCorrect": true
             },
             {
+              "id": "opt_b",
+              "text": "A totally unforeseeable event that cannot be anticipated",
+              "isCorrect": false
+            },
+            {
               "id": "opt_c",
-              "text": "Construction sand",
+              "text": "An illiquid asset nobody wants to buy",
               "isCorrect": false
             },
             {
               "id": "opt_d",
-              "text": "Jet fuel",
+              "text": "A listed company run by incompetent managers",
               "isCorrect": false
             }
           ]
@@ -232,21 +232,21 @@
       }
     },
     {
-      "id": "wq_2026_W41_q5",
+      "id": "wq_2026_W42_q5",
       "difficulty": 5,
       "type": "NUMERIC_GUESS",
       "points": 30,
-      "answer": 12636,
-      "tolerance": 800,
+      "answer": 0.73,
+      "tolerance": 0.1,
       "translations": {
         "fr": {
-          "question": "Question bonus : en décembre 2024, le cacao à New York a touché son record historique. À quel prix approximatif, en dollars par tonne (le plus proche gagne) ?",
-          "explanation": "Environ 12 600 $ la tonne (12 636 $ le 18 décembre 2024) : le record absolu du cacao new-yorkais, au terme d'une année où son prix a quasiment triplé.",
+          "question": "Question bonus : le Dogecoin, cette cryptomonnaie créée en 2013 en clin d'œil au mème du même nom, a atteint son record historique en mai 2021. À quel prix approximatif, en dollars (le plus proche gagne) ?",
+          "explanation": "Environ 0,73 $ (record d'environ 0,73–0,74 $ le 8 mai 2021) : le chien le plus improbable de la finance, né d'une blague, a brièvement pesé des dizaines de milliards de dollars.",
           "options": []
         },
         "en": {
-          "question": "Bonus question: in December 2024, New York cocoa hit its all-time record. At roughly what price, in dollars per ton (closest guess wins)?",
-          "explanation": "About $12,600 a ton ($12,636 on December 18, 2024): the all-time New York cocoa record, capping a year in which prices nearly tripled.",
+          "question": "Bonus question: Dogecoin, the cryptocurrency created in 2013 as a nod to the eponymous meme, hit its all-time high in May 2021. At roughly what price, in dollars (closest guess wins)?",
+          "explanation": "About $0.73 (a record of roughly $0.73–0.74 on May 8, 2021): finance's most improbable dog, born as a joke, was briefly worth tens of billions of dollars.",
           "options": []
         }
       }
@@ -256,14 +256,14 @@
     "maxScore": 90,
     "rankLabels": {
       "fr": [
-        "Goûteur du dimanche",
-        "Trader à table",
-        "Chef étoilé de la Bourse"
+        "Animal de compagnie",
+        "Dompteur de taureaux",
+        "Maître de la ménagerie"
       ],
       "en": [
-        "Sunday taster",
-        "Trader at the table",
-        "Michelin-starred market chef"
+        "House pet",
+        "Bull tamer",
+        "Master of the menagerie"
       ]
     }
   }

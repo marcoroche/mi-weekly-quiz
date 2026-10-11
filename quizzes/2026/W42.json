@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 2,
+  "id": "wq_2026_W42",
+  "theme": "Les bêtes de la Bourse",
+  "publishedAt": "2026-10-12T00:00:00+02:00",
+  "validFrom": "2026-10-12",
+  "validUntil": "2026-10-18",
+  "weekInStreak": 3,
+  "narrative": {
+    "fr": "Taureaux, ours, cygnes noirs et chats morts : la finance parle le langage du zoo. Cette semaine, MindInvest remonte la piste des animaux qui guident les marchés, du plus célèbre rebond de Wall Street au chien le plus improbable du Web. Ouvrez l'œil… et bonne chance !",
+    "en": "Bulls, bears, black swans and dead cats: finance speaks fluent zoo. This week, MindInvest tracks the animals that guide the markets, from Wall Street's most famous bounce to the web's most improbable dog. Keep your eyes peeled… and good luck!"
+  },
+  "questions": [
+    {
+      "id": "wq_2026_W42_q1",
+      "difficulty": 1,
+      "type": "MCQ",
+      "points": 10,
+      "translations": {
+        "fr": {
+          "question": "Que décrit l'expression « dead cat bounce » (rebond du chat mort) sur les marchés ?",
+          "explanation": "Un rebond technique éphémère au sein d'une baisse durable : même un chat qui tombe rebondit s'il est lâché assez haut — mais il retombe toujours. L'expression vient de Wall Street et a été popularisée dans la presse financière.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Un rebond bref et temporaire au milieu d'une baisse durable",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "Une hausse continue et régulière sur plusieurs années",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "Le gel d'un titre suite à une suspension de cotation",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "Une stratégie d'investissement dans les sociétés de croquettes",
+              "isCorrect": false
+            }
+          ]
+        },
+        "en": {
+          "question": "What does the expression 'dead cat bounce' describe on the markets?",
+          "explanation": "A brief, temporary rebound within a lasting downtrend: even a dead cat bounces if you drop it from high enough — but it always falls back down. The phrase comes from Wall Street and was popularized in the financial press.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "A short, temporary rebound in the middle of a lasting decline",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "A steady, continuous rise over several years",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "A trading freeze after a stock suspension",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "A strategy of investing in pet-food companies",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W42_q2",
+      "difficulty": 2,
+      "type": "MCQ",
+      "points": 10,
+      "translations": {
+        "fr": {
+          "question": "Quel auteur a popularisé l'expression « cygne noir » pour décrire un événement improbable, imprévisible et à fortes conséquences ?",
+          "explanation": "Nassim Nicholas Taleb, dans son ouvrage « The Black Swan » (2007), ancien trader d'options devenu l'un des penseurs du risque les plus influents.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Warren Buffett",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_b",
+              "text": "Nassim Nicholas Taleb",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_c",
+              "text": "Benjamin Graham",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "Burton Malkiel",
+              "isCorrect": false
+            }
+          ]
+        },
+        "en": {
+          "question": "Which author popularized the expression 'black swan' to describe an improbable, unpredictable event with huge consequences?",
+          "explanation": "Nassim Nicholas Taleb, in his 2007 book 'The Black Swan' — a former options trader who became one of the most influential thinkers on risk.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Warren Buffett",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_b",
+              "text": "Nassim Nicholas Taleb",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_c",
+              "text": "Benjamin Graham",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "Burton Malkiel",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W42_q3",
+      "difficulty": 3,
+      "type": "TRUE_FALSE",
+      "points": 15,
+      "translations": {
+        "fr": {
+          "question": "Vrai ou faux : le surnom « Le Loup de Wall Street » vient d'un escroc du début du XXe siècle, David Lamar, surnommé ainsi avant même les mémoires de Jordan Belfort.",
+          "explanation": "Vrai : David Lamar (1876–1934), escroc américain, fut surnommé « the Wolf of Wall Street » bien avant que Jordan Belfort ne reprenne l'expression pour ses mémoires (2007), adaptées au cinéma par Scorsese en 2013.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Vrai",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "Faux",
+              "isCorrect": false
+            }
+          ]
+        },
+        "en": {
+          "question": "True or false: the nickname 'The Wolf of Wall Street' originally belonged to an early 20th-century swindler, David Lamar, long before Jordan Belfort's memoirs.",
+          "explanation": "True: David Lamar (1876–1934), an American con man, was dubbed 'the Wolf of Wall Street' long before Jordan Belfort reused the phrase for his memoirs (2007), adapted to film by Scorsese in 2013.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "True",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "False",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W42_q4",
+      "difficulty": 4,
+      "type": "MCQ",
+      "points": 25,
+      "translations": {
+        "fr": {
+          "question": "Qu'est-ce qu'un « rhino gris », selon Michele Wucker qui a forgé l'expression ?",
+          "explanation": "Une menace évidente, très probable et à fort impact, mais que l'on néglige malgré — et souvent à cause de — son ampleur. Wucker l'a introduite à Davos en 2013 puis développée dans son livre de 2016, en miroir du cygne noir.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Un risque évident et probable que l'on ignore malgré sa taille",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "Un événement totalement imprévisible et impossible à anticiper",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "Un actif dont personne ne veut, faute de liquidité",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "Une société cotée dirigée par des gestionnaires peu compétents",
+              "isCorrect": false
+            }
+          ]
+        },
+        "en": {
+          "question": "According to Michele Wucker, who coined the expression, what is a 'gray rhino'?",
+          "explanation": "An obvious, highly probable, high-impact threat that we neglect despite — and often because of — its size. Wucker introduced it at Davos in 2013 and developed it in her 2016 book, as a mirror to the black swan.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "An obvious, probable risk that we ignore despite its size",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "A totally unforeseeable event that cannot be anticipated",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "An illiquid asset nobody wants to buy",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "A listed company run by incompetent managers",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W42_q5",
+      "difficulty": 5,
+      "type": "NUMERIC_GUESS",
+      "points": 30,
+      "answer": 0.73,
+      "tolerance": 0.1,
+      "translations": {
+        "fr": {
+          "question": "Question bonus : le Dogecoin, cette cryptomonnaie créée en 2013 en clin d'œil au mème du même nom, a atteint son record historique en mai 2021. À quel prix approximatif, en dollars (le plus proche gagne) ?",
+          "explanation": "Environ 0,73 $ (record d'environ 0,73–0,74 $ le 8 mai 2021) : le chien le plus improbable de la finance, né d'une blague, a brièvement pesé des dizaines de milliards de dollars.",
+          "options": []
+        },
+        "en": {
+          "question": "Bonus question: Dogecoin, the cryptocurrency created in 2013 as a nod to the eponymous meme, hit its all-time high in May 2021. At roughly what price, in dollars (closest guess wins)?",
+          "explanation": "About $0.73 (a record of roughly $0.73–0.74 on May 8, 2021): finance's most improbable dog, born as a joke, was briefly worth tens of billions of dollars.",
+          "options": []
+        }
+      }
+    }
+  ],
+  "scoring": {
+    "maxScore": 90,
+    "rankLabels": {
+      "fr": [
+        "Animal de compagnie",
+        "Dompteur de taureaux",
+        "Maître de la ménagerie"
+      ],
+      "en": [
+        "House pet",
+        "Bull tamer",
+        "Master of the menagerie"
+      ]
+    }
+  }
+}
