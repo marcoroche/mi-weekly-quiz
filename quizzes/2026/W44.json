@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 2,
+  "id": "wq_2026_W44",
+  "theme": "L'argent au fil de l'eau",
+  "publishedAt": "2026-10-26T00:00:00+01:00",
+  "validFrom": "2026-10-26",
+  "validUntil": "2026-11-01",
+  "weekInStreak": 1,
+  "narrative": {
+    "fr": "Les grands fleuves et la finance ont plus en commun qu'on ne croit : courants porteurs, eaux troubles, cascades de liquidations et embouchures majestueuses. Cette semaine, MindInvest remonte le fleuve des expressions financières nées de l'eau, des vagues de krach aux liquidités qui inondent les marchés. Embarquez… et bonne chance !",
+    "en": "Great rivers and finance have more in common than you think: favorable currents, murky waters, cascading liquidations and mighty mouths. This week, MindInvest sails up the river of financial expressions born from water, from crash waves to liquidity flooding the markets. Hop aboard… and good luck!"
+  },
+  "questions": [
+    {
+      "id": "wq_2026_W44_q1",
+      "difficulty": 1,
+      "type": "MCQ",
+      "points": 10,
+      "translations": {
+        "fr": {
+          "question": "En finance, que désigne la « liquidité » d'un marché ou d'un actif ?",
+          "explanation": "La facilité d'acheter ou de vendre rapidement sans faire bouger sensiblement le prix. Un actif très liquide s'échange sans friction, comme l'eau qui coule ; un actif illiquide est un rocher qui bloque le passage.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "La facilité d'acheter ou vendre vite sans impacter fortement le prix",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "Le montant total des dividendes versés par an",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "La proportion d'actifs détenus en espèces par la banque centrale",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "Le degré de volatilité d'un titre sur l'année",
+              "isCorrect": false
+            }
+          ]
+        },
+        "en": {
+          "question": "In finance, what does the 'liquidity' of a market or asset refer to?",
+          "explanation": "How easily you can buy or sell quickly without significantly moving the price. A highly liquid asset trades without friction, like flowing water; an illiquid one is a rock blocking the stream.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "How easily you can buy or sell fast without strongly moving the price",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "The total dividends paid out per year",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "The share of assets held in cash by the central bank",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "How volatile a security is over the year",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W44_q2",
+      "difficulty": 2,
+      "type": "MCQ",
+      "points": 10,
+      "translations": {
+        "fr": {
+          "question": "Que raconte la fameuse maxime de Warren Buffett : « Être craintif quand les autres sont avides, et avide quand les autres sont craintifs » ? On la résume souvent par une expression aquatique…",
+          "explanation": "Il s'agit du « contrarianisme » : nager à contre-courant de la foule. Quand tout le monde fuit (eaux basses), les meilleures occasions refont surface ; quand tout le monde se rue (marée haute), la prudence s'impose.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Nager à contre-courant de l'humeur dominante du marché",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "Suivre le courant majoritaire pour ne pas se noyer",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "Investir uniquement quand la marée est haute",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "Attendre que le bateau soit plein avant d'embarquer",
+              "isCorrect": false
+            }
+          ]
+        },
+        "en": {
+          "question": "What does Warren Buffett's famous maxim 'be fearful when others are greedy, and greedy when others are fearful' amount to? It's often summed up with a water metaphor…",
+          "explanation": "Contrarianism: swimming against the crowd's current. When everyone flees (low waters), the best opportunities resurface; when everyone rushes in (high tide), caution is due.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Swimming against the market's dominant current",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "Following the majority's current so you don't drown",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "Investing only when the tide is high",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "Waiting until the boat is full before boarding",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W44_q3",
+      "difficulty": 3,
+      "type": "TRUE_FALSE",
+      "points": 15,
+      "translations": {
+        "fr": {
+          "question": "Vrai ou faux : l'expression « jeter l'argent par les fenêtres » a inspiré le terme financier anglais « burn rate », qui mesure la vitesse à laquelle une entreprise dépense son argent.",
+          "explanation": "Faux : le « burn rate » vient de l'image du feu (brûler du cash), pas de l'eau — mais il partage l'idée de consommation rapide des ressources. Les start-up surveillent leur burn rate comme on surveille le niveau d'une réserve d'eau.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Vrai",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_b",
+              "text": "Faux",
+              "isCorrect": true
+            }
+          ]
+        },
+        "en": {
+          "question": "True or false: the phrase 'throwing money out the window' inspired the financial term 'burn rate', which measures how fast a company spends its cash.",
+          "explanation": "False: 'burn rate' comes from the imagery of fire (burning cash), not water — but it shares the idea of fast resource consumption. Startups watch their burn rate the way one watches a water reservoir's level.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "True",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_b",
+              "text": "False",
+              "isCorrect": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W44_q4",
+      "difficulty": 4,
+      "type": "MCQ",
+      "points": 25,
+      "translations": {
+        "fr": {
+          "question": "Qu'appelle-t-on une « cascade de liquidations » sur les marchés ?",
+          "explanation": "Un cercle vicieux : des pertes obligent des investisseurs à vendre, ces ventes font baisser les prix, ce qui déclenche de nouveaux appels de marge et de nouvelles ventes forcées — la vague emporte tout sur son passage, comme dans les krachs de 1929 ou d'octobre 1987.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "Un enchaînement de ventes forcées qui nourrit la baisse et déclenche de nouvelles ventes",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "Une série de fusions-acquisitions annoncées le même jour",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "La redistribution des dividendes en cascade aux actionnaires",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "L'annulation progressive des ordres d'achat en fin de séance",
+              "isCorrect": false
+            }
+          ]
+        },
+        "en": {
+          "question": "What is a 'liquidation cascade' on the markets?",
+          "explanation": "A vicious circle: losses force investors to sell, those sales push prices down, which triggers new margin calls and further forced selling — the wave sweeps everything along, as in the 1929 or October 1987 crashes.",
+          "options": [
+            {
+              "id": "opt_a",
+              "text": "A chain of forced sales that feeds the decline and triggers further selling",
+              "isCorrect": true
+            },
+            {
+              "id": "opt_b",
+              "text": "A series of mergers announced on the same day",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_c",
+              "text": "Cascading dividend distributions to shareholders",
+              "isCorrect": false
+            },
+            {
+              "id": "opt_d",
+              "text": "The gradual cancellation of buy orders at the close",
+              "isCorrect": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq_2026_W44_q5",
+      "difficulty": 5,
+      "type": "NUMERIC_GUESS",
+      "points": 30,
+      "answer": 1929,
+      "tolerance": 0,
+      "translations": {
+        "fr": {
+          "question": "Question bonus : le « jeudi noir » du 24 octobre 1929 a ouvert la plus célèbre vague de panique de l'histoire de Wall Street. Combien de points environ le Dow Jones a-t-il perdus ce jour-là (en points de l'époque) ?",
+          "explanation": "Environ 11 % de baisse ce jour-là, soit à peu près 38 points (le Dow clôturant autour de 230 contre 299 la veille) ; il finira par perdre près de 90 % de sa valeur d'ici 1932. La vague de 1929 a déferlé bien au-delà de Wall Street.",
+          "options": []
+        },
+        "en": {
+          "question": "Bonus question: 'Black Thursday', October 24, 1929, opened the most famous wave of panic in Wall Street history. By roughly how many points (in the era's scale) did the Dow Jones fall that day?",
+          "explanation": "About an 11% drop that day — roughly 38 points (the Dow closed near 230 versus 299 the day before); it would go on to lose almost 90% of its value by 1932. The 1929 wave crashed far beyond Wall Street.",
+          "options": []
+        }
+      }
+    }
+  ],
+  "scoring": {
+    "maxScore": 90,
+    "rankLabels": {
+      "fr": [
+        "Passager d'un jour",
+        "Lofty du bord",
+        "Capitaine du fleuve"
+      ],
+      "en": [
+        "Day passenger",
+        "Deck hand",
+        "River captain"
+      ]
+    }
+  }
+}
