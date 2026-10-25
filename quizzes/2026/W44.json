@@ -236,8 +236,8 @@
       "difficulty": 5,
       "type": "NUMERIC_GUESS",
       "points": 30,
-      "answer": 1929,
-      "tolerance": 0,
+      "answer": 38,
+      "tolerance": 10,
       "translations": {
         "fr": {
           "question": "Question bonus : le « jeudi noir » du 24 octobre 1929 a ouvert la plus célèbre vague de panique de l'histoire de Wall Street. Combien de points environ le Dow Jones a-t-il perdus ce jour-là (en points de l'époque) ?",
