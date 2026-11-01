@@ -1,70 +1,70 @@
 {
   "schemaVersion": 2,
-  "id": "wq_2026_W44",
-  "theme": "L'argent au fil de l'eau",
-  "publishedAt": "2026-10-26T00:00:00+01:00",
-  "validFrom": "2026-10-26",
-  "validUntil": "2026-11-01",
-  "weekInStreak": 1,
+  "id": "wq_2026_W45",
+  "theme": "La finance s'envole vers la Lune",
+  "publishedAt": "2026-11-02T00:00:00+01:00",
+  "validFrom": "2026-11-02",
+  "validUntil": "2026-11-08",
+  "weekInStreak": 2,
   "narrative": {
-    "fr": "Les grands fleuves et la finance ont plus en commun qu'on ne croit : courants porteurs, eaux troubles, cascades de liquidations et embouchures majestueuses. Cette semaine, MindInvest remonte le fleuve des expressions financières nées de l'eau, des vagues de krach aux liquidités qui inondent les marchés. Embarquez… et bonne chance !",
-    "en": "Great rivers and finance have more in common than you think: favorable currents, murky waters, cascading liquidations and mighty mouths. This week, MindInvest sails up the river of financial expressions born from water, from crash waves to liquidity flooding the markets. Hop aboard… and good luck!"
+    "fr": "Cette semaine, MindInvest décroche la Terre fermement : envol vers la Lune, trous noirs budgétaires, étoiles filantes et rentrées atmosphériques brutalissimes. Les marchés ont toujours parlé le langage du ciel — quand un titre « part en lune », quand un bilan devient un « trou noir » ou quand une bulle retombe comme un météore. Compte à rebours lancé… 3, 2, 1, quiz !",
+    "en": "This week, MindInvest leaves the ground for good: liftoff to the Moon, budgetary black holes, shooting stars and brutal atmospheric re-entries. Markets have always spoken the language of the sky — a stock 'going to the moon', a balance sheet turning into a 'black hole', or a bubble crashing back like a meteor. Countdown initiated… 3, 2, 1, quiz!"
   },
   "questions": [
     {
-      "id": "wq_2026_W44_q1",
+      "id": "wq_2026_W45_q1",
       "difficulty": 1,
       "type": "MCQ",
       "points": 10,
       "translations": {
         "fr": {
-          "question": "En finance, que désigne la « liquidité » d'un marché ou d'un actif ?",
-          "explanation": "La facilité d'acheter ou de vendre rapidement sans faire bouger sensiblement le prix. Un actif très liquide s'échange sans friction, comme l'eau qui coule ; un actif illiquide est un rocher qui bloque le passage.",
+          "question": "Quand un investisseur dit qu'une action « part en lune » (to the moon), que veut-il dire ?",
+          "explanation": "Qu'il s'attend à une hausse vertigineuse du cours. L'expression, popularisée sur les réseaux sociaux et les forums de bourse, décrit une flambée spectaculaire — d'où aussi la fusée 🚀 devenue l'emoji fétiche des investisseurs en ligne.",
           "options": [
             {
               "id": "opt_a",
-              "text": "La facilité d'acheter ou vendre vite sans impacter fortement le prix",
+              "text": "Que le cours va s'envoler de façon spectaculaire",
               "isCorrect": true
             },
             {
               "id": "opt_b",
-              "text": "Le montant total des dividendes versés par an",
+              "text": "Que la société va se mettre en faillite",
               "isCorrect": false
             },
             {
               "id": "opt_c",
-              "text": "La proportion d'actifs détenus en espèces par la banque centrale",
+              "text": "Que l'action va être suspendue de cotation",
               "isCorrect": false
             },
             {
               "id": "opt_d",
-              "text": "Le degré de volatilité d'un titre sur l'année",
+              "text": "Que le titre va stagner longtemps en orbite basse",
               "isCorrect": false
             }
           ]
         },
         "en": {
-          "question": "In finance, what does the 'liquidity' of a market or asset refer to?",
-          "explanation": "How easily you can buy or sell quickly without significantly moving the price. A highly liquid asset trades without friction, like flowing water; an illiquid one is a rock blocking the stream.",
+          "question": "When an investor says a stock is 'going to the moon', what do they mean?",
+          "explanation": "That they expect the price to soar spectacularly. Popularized on social media and trading forums, the expression describes a stratospheric surge — hence the rocket 🚀 emoji beloved by online investors.",
           "options": [
             {
               "id": "opt_a",
-              "text": "How easily you can buy or sell fast without strongly moving the price",
+              "text": "That the price will skyrocket spectacularly",
               "isCorrect": true
             },
             {
               "id": "opt_b",
-              "text": "The total dividends paid out per year",
+              "text": "That the company is heading for bankruptcy",
               "isCorrect": false
             },
             {
               "id": "opt_c",
-              "text": "The share of assets held in cash by the central bank",
+              "text": "That the stock will be suspended from trading",
               "isCorrect": false
             },
             {
               "id": "opt_d",
-              "text": "How volatile a security is over the year",
+              "text": "That the share will hover in low orbit for a long time",
               "isCorrect": false
             }
           ]
@@ -72,59 +72,59 @@
       }
     },
     {
-      "id": "wq_2026_W44_q2",
+      "id": "wq_2026_W45_q2",
       "difficulty": 2,
       "type": "MCQ",
       "points": 10,
       "translations": {
         "fr": {
-          "question": "Que raconte la fameuse maxime de Warren Buffett : « Être craintif quand les autres sont avides, et avide quand les autres sont craintifs » ? On la résume souvent par une expression aquatique…",
-          "explanation": "Il s'agit du « contrarianisme » : nager à contre-courant de la foule. Quand tout le monde fuit (eaux basses), les meilleures occasions refont surface ; quand tout le monde se rue (marée haute), la prudence s'impose.",
+          "question": "On entend souvent qu'un produit financier complexe n'est pas « rocket science ». Dans la bouche d'un boursier, que signifie l'expression « rocket science » appliquée à la finance ?",
+          "explanation": "Elle désigne l'ingénierie financière de haut vol : modèles mathématiques sophistiqués, produits dérivés structurés, couverture automatisée. Dire que la finance « n'est pas du rocket science », c'est rappeler que les principes de base — diversification, intérêts composés — restent simples et accessibles.",
           "options": [
             {
               "id": "opt_a",
-              "text": "Nager à contre-courant de l'humeur dominante du marché",
+              "text": "Les modèles mathématiques ultra-sophistiqués de la finance quantitative",
               "isCorrect": true
             },
             {
               "id": "opt_b",
-              "text": "Suivre le courant majoritaire pour ne pas se noyer",
+              "text": "L'étude des valeurs liées au secteur aérospatial",
               "isCorrect": false
             },
             {
               "id": "opt_c",
-              "text": "Investir uniquement quand la marée est haute",
+              "text": "La vitesse d'exécution des ordres en bourse",
               "isCorrect": false
             },
             {
               "id": "opt_d",
-              "text": "Attendre que le bateau soit plein avant d'embarquer",
+              "text": "La science des actuaires en assurance-vie",
               "isCorrect": false
             }
           ]
         },
         "en": {
-          "question": "What does Warren Buffett's famous maxim 'be fearful when others are greedy, and greedy when others are fearful' amount to? It's often summed up with a water metaphor…",
-          "explanation": "Contrarianism: swimming against the crowd's current. When everyone flees (low waters), the best opportunities resurface; when everyone rushes in (high tide), caution is due.",
+          "question": "People often say a financial product isn't 'rocket science'. For a market professional, what does 'rocket science' mean when applied to finance?",
+          "explanation": "It refers to high-flying financial engineering: sophisticated mathematical models, structured derivatives, automated hedging. Saying finance 'isn't rocket science' is a reminder that the basics — diversification, compound interest — remain simple and within everyone's reach.",
           "options": [
             {
               "id": "opt_a",
-              "text": "Swimming against the market's dominant current",
+              "text": "The ultra-sophisticated maths of quantitative finance",
               "isCorrect": true
             },
             {
               "id": "opt_b",
-              "text": "Following the majority's current so you don't drown",
+              "text": "The study of aerospace-sector stocks",
               "isCorrect": false
             },
             {
               "id": "opt_c",
-              "text": "Investing only when the tide is high",
+              "text": "How fast trading orders are executed",
               "isCorrect": false
             },
             {
               "id": "opt_d",
-              "text": "Waiting until the boat is full before boarding",
+              "text": "The actuarial science of life insurance",
               "isCorrect": false
             }
           ]
@@ -132,14 +132,14 @@
       }
     },
     {
-      "id": "wq_2026_W44_q3",
+      "id": "wq_2026_W45_q3",
       "difficulty": 3,
       "type": "TRUE_FALSE",
       "points": 15,
       "translations": {
         "fr": {
-          "question": "Vrai ou faux : l'expression « jeter l'argent par les fenêtres » a inspiré le terme financier anglais « burn rate », qui mesure la vitesse à laquelle une entreprise dépense son argent.",
-          "explanation": "Faux : le « burn rate » vient de l'image du feu (brûler du cash), pas de l'eau — mais il partage l'idée de consommation rapide des ressources. Les start-up surveillent leur burn rate comme on surveille le niveau d'une réserve d'eau.",
+          "question": "Vrai ou faux : en analyse technique, la figure en chandeliers appelée « étoile filante » (shooting star) annonce généralement une poursuite du mouvement haussier.",
+          "explanation": "Faux ! Malgré son nom poétique, l'étoile filante est une figure de retournement baissier : après une hausse, une longue mèche haute suivie d'une clôture faible signale que les acheteurs ont perdu le contrôle — l'étoile brille, puis retombe.",
           "options": [
             {
               "id": "opt_a",
@@ -154,8 +154,8 @@
           ]
         },
         "en": {
-          "question": "True or false: the phrase 'throwing money out the window' inspired the financial term 'burn rate', which measures how fast a company spends its cash.",
-          "explanation": "False: 'burn rate' comes from the imagery of fire (burning cash), not water — but it shares the idea of fast resource consumption. Startups watch their burn rate the way one watches a water reservoir's level.",
+          "question": "True or false: in technical analysis, the candlestick pattern called 'shooting star' generally signals the continuation of an uptrend.",
+          "explanation": "False! Despite its poetic name, the shooting star is a bearish reversal pattern: after a rally, a long upper wick followed by a weak close signals buyers have lost control — the star shines, then falls back to earth.",
           "options": [
             {
               "id": "opt_a",
@@ -172,59 +172,59 @@
       }
     },
     {
-      "id": "wq_2026_W44_q4",
+      "id": "wq_2026_W45_q4",
       "difficulty": 4,
       "type": "MCQ",
       "points": 25,
       "translations": {
         "fr": {
-          "question": "Qu'appelle-t-on une « cascade de liquidations » sur les marchés ?",
-          "explanation": "Un cercle vicieux : des pertes obligent des investisseurs à vendre, ces ventes font baisser les prix, ce qui déclenche de nouveaux appels de marge et de nouvelles ventes forcées — la vague emporte tout sur son passage, comme dans les krachs de 1929 ou d'octobre 1987.",
+          "question": "Le 27 octobre 1986, la City de Londres a vécu son « Big Bang ». Que désigne ce fameux « Big Bang » financier ?",
+          "explanation": "La dérégulation massive des marchés financiers britanniques : abolition des commissions fixes, fin de la séparation entre courtiers et agents de change, et passage à la cotation électronique. Une petite révolution cosmique qui a transformé la place de Londres en quelques jours.",
           "options": [
             {
               "id": "opt_a",
-              "text": "Un enchaînement de ventes forcées qui nourrit la baisse et déclenche de nouvelles ventes",
+              "text": "La dérégulation brutale des marchés britanniques : fin des commissions fixes et dématérialisation de la cotation",
               "isCorrect": true
             },
             {
               "id": "opt_b",
-              "text": "Une série de fusions-acquisitions annoncées le même jour",
+              "text": "Le krach simultané des bourses de Londres et de Wall Street",
               "isCorrect": false
             },
             {
               "id": "opt_c",
-              "text": "La redistribution des dividendes en cascade aux actionnaires",
+              "text": "La création du FTSE 100, l'indice des 100 plus grandes valeurs britanniques",
               "isCorrect": false
             },
             {
               "id": "opt_d",
-              "text": "L'annulation progressive des ordres d'achat en fin de séance",
+              "text": "L'introduction en bourse de British Aerospace",
               "isCorrect": false
             }
           ]
         },
         "en": {
-          "question": "What is a 'liquidation cascade' on the markets?",
-          "explanation": "A vicious circle: losses force investors to sell, those sales push prices down, which triggers new margin calls and further forced selling — the wave sweeps everything along, as in the 1929 or October 1987 crashes.",
+          "question": "On 27 October 1986, the City of London experienced its 'Big Bang'. What was this famous financial 'Big Bang'?",
+          "explanation": "The sweeping deregulation of UK financial markets: abolition of fixed commissions, end of the separation between brokers and jobbers, and the switch to electronic trading. A small cosmic revolution that transformed the City of London within days.",
           "options": [
             {
               "id": "opt_a",
-              "text": "A chain of forced sales that feeds the decline and triggers further selling",
+              "text": "The abrupt deregulation of UK markets: end of fixed commissions and dematerialized trading",
               "isCorrect": true
             },
             {
               "id": "opt_b",
-              "text": "A series of mergers announced on the same day",
+              "text": "The simultaneous crash of the London and Wall Street stock exchanges",
               "isCorrect": false
             },
             {
               "id": "opt_c",
-              "text": "Cascading dividend distributions to shareholders",
+              "text": "The creation of the FTSE 100, the index of the 100 largest UK companies",
               "isCorrect": false
             },
             {
               "id": "opt_d",
-              "text": "The gradual cancellation of buy orders at the close",
+              "text": "The stock-market listing of British Aerospace",
               "isCorrect": false
             }
           ]
@@ -232,21 +232,21 @@
       }
     },
     {
-      "id": "wq_2026_W44_q5",
+      "id": "wq_2026_W45_q5",
       "difficulty": 5,
       "type": "NUMERIC_GUESS",
       "points": 30,
-      "answer": 38,
-      "tolerance": 10,
+      "answer": 5048,
+      "tolerance": 300,
       "translations": {
         "fr": {
-          "question": "Question bonus : le « jeudi noir » du 24 octobre 1929 a ouvert la plus célèbre vague de panique de l'histoire de Wall Street. Combien de points environ le Dow Jones a-t-il perdus ce jour-là (en points de l'époque) ?",
-          "explanation": "Environ 11 % de baisse ce jour-là, soit à peu près 38 points (le Dow clôturant autour de 230 contre 299 la veille) ; il finira par perdre près de 90 % de sa valeur d'ici 1932. La vague de 1929 a déferlé bien au-delà de Wall Street.",
+          "question": "Question bonus : au plus haut de la bulle internet, le 10 mars 2000, le Nasdaq a atteint son sommet historique avant de plonger pendant deux ans et demi et de perdre près de 80 %. À quel niveau (en points, environ) l'indice a-t-il culminé ce jour-là ?",
+          "explanation": "5 048,62 points ! Après avoir visé les étoiles, le Nasdaq a effectué une rentrée atmosphérique catastrophique, touchant un plancher autour de 1 100 points en octobre 2002. Même les fusées les plus haussières finissent par retomber — d'où l'intérêt de la diversification.",
           "options": []
         },
         "en": {
-          "question": "Bonus question: 'Black Thursday', October 24, 1929, opened the most famous wave of panic in Wall Street history. By roughly how many points (in the era's scale) did the Dow Jones fall that day?",
-          "explanation": "About an 11% drop that day — roughly 38 points (the Dow closed near 230 versus 299 the day before); it would go on to lose almost 90% of its value by 1932. The 1929 wave crashed far beyond Wall Street.",
+          "question": "Bonus question: at the very top of the dot-com bubble, on 10 March 2000, the Nasdaq hit its all-time peak before plunging for two and a half years and losing nearly 80%. At roughly what level (in points) did the index top out that day?",
+          "explanation": "5,048.62 points! After shooting for the stars, the Nasdaq made a catastrophic re-entry, bottoming around 1,100 points in October 2002. Even the most bullish rockets eventually fall back to earth — hence the value of diversification.",
           "options": []
         }
       }
@@ -256,14 +256,14 @@
     "maxScore": 90,
     "rankLabels": {
       "fr": [
-        "Passager d'un jour",
-        "Lofty du bord",
-        "Capitaine du fleuve"
+        "Simple visiteur du ciel",
+        "Astronaute en herbe",
+        "Commandant de mission lunaire"
       ],
       "en": [
-        "Day passenger",
-        "Deck hand",
-        "River captain"
+        "Sky-gazing tourist",
+        "Astronaut in training",
+        "Lunar mission commander"
       ]
     }
   }
